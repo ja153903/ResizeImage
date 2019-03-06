@@ -1,4 +1,5 @@
 # pip install Pillow if you lack dependency
+# git repo located at: https://github.com/ja153903/ResizeImage
 from PIL import Image
 import os
 
